@@ -37,7 +37,7 @@ This project provides a comprehensive analysis of customer behavior, retention p
 - Assigned customers to High, Mid, and Low-value segments
 - Calculated key metrics: total revenue
 
-🖥️ Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
+🖥️ Query: [1_customer_segmentation.sql](SQL\q1_customer_segmentation.sql)
 
 **📈 Visualization:**
 
@@ -58,7 +58,7 @@ This project provides a comprehensive analysis of customer behavior, retention p
 - Cohorts were grouped by year of first purchase
 - Analyzed customer retention at a cohort level
 
-🖥️ Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
+🖥️ Query: [2_cohort_analysis.sql](SQL\q2_cohort_analysis.sql)
 
 **📈 Visualization:**
 
@@ -75,7 +75,7 @@ This project provides a comprehensive analysis of customer behavior, retention p
 - With both lowering LTV and decreasing customer acquisition, the company is facing a potential revenue decline.
 
 ### 3. Customer Retention
-🖥️ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
+🖥️ Query: [3_retention_analysis.sql](SQL\q3_retention_analysis.sql)
 
 - Identified customers at risk of churning
 - Analyzed last purchase patterns
